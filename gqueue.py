@@ -37,7 +37,7 @@ class Queue():
             self.length -= 1
             return result
     
-    def Lenght(self):
+    def Length(self):
         return self.length
 
 
