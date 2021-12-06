@@ -1,7 +1,7 @@
 # bst_phonebook
  Phonebook implemented with a binary search tree
 
-## running
+## Running
 To open a empty phonebook, run:
 ```
 python3 main.py
