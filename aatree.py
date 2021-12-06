@@ -1,5 +1,7 @@
 from gqueue import Queue
 
+# Implementation of an ArneAnderssonTree
+# https://en.wikipedia.org/wiki/AA_tree
 
 class Node():
     def __init__(self, data):
@@ -119,6 +121,7 @@ def addToList(l, T):
     if T.right != None:
         l = addToList(l, T.right)
     return l
+
 
 class AATree():
     def __init__(self):

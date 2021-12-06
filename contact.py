@@ -1,4 +1,3 @@
-
 class Contact() :
     def __init__(self, name, number=""):
         self.name = name
@@ -16,4 +15,3 @@ class Contact() :
 
     def __str__(self):
         return "(" + self.name + ", " + self.number + ")"
-

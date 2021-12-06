@@ -1,6 +1,8 @@
 # bst_phonebook
  Phonebook implemented with a binary search tree
 
+Latest version can be found [here](https://github.com/DanielGrenehed/bst_phonebook)
+
 ## Running
 To open a empty phonebook, run:
 ```
@@ -27,3 +29,4 @@ python3 main.py numbers.txt
 ```quit``` will exit the loop  
 ```exit``` will exit the loop  
 ```help``` will print avaliable commands  
+

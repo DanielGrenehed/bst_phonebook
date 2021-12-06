@@ -3,7 +3,6 @@ import rw
 from aatree import AATree
 
 class Menu():
-    
     def __init__(self):
         self.Tree = AATree()
         self.run = True
